@@ -62,11 +62,10 @@
 
 ---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nomad1nk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nomad1nk" /></a></p><br><br>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomad1nk&" alt="nomad1nk" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/nomad1nk"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nomad1nk" /></a></p><br><br>
 
 ## 🤹‍♂️ Fun Fact
 > No more `console.log("panic")` — only `git push origin success` 🚀
