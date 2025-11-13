@@ -3,7 +3,7 @@
   <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"
 </a>
 <a href="https://facebook.com/baysgln.battulga.7" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
 </a>
 
 
