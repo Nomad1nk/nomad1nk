@@ -11,14 +11,14 @@
 - 🌏 Studying JLPT N1 + Advanced React/Next.js 
 
 
-### 🗣️ Languages I Speak
+###🗣️ Languages I Speak
 
-**`<p align="left">
+<p align="left">
   🇲🇳 Mongolian (Native)  
   🇬🇧 English (Fluent)  
   🇩🇪 German (Intermediate)  
   🇯🇵 Japanese (Fluent)
-</p>`**
+</p>
 
 ---
 
