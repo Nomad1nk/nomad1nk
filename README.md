@@ -1,8 +1,13 @@
 # Nomad1nk
-## 👨‍💻 About Me
 <a href="https://www.instagram.com/baysakun/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"
 </a>
+<a href="https://www.facebook.com/baysgln.battulga.7/" target="blank">
+  <img src="https://skillicons.dev/icons?i=facebook" alt="facebook"
+</a>
+
+
+## 👨‍💻 About Me
 
 **`- 🌱 Studying JLPT N1 + Advanced React/Next.js `**
 ---
