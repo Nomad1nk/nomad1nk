@@ -1,5 +1,8 @@
 # Nomad1nk
 ## 👨‍💻 About Me
+<a href="https://www.instagram.com/baysakun/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"
+</a>
 
 **`- 🌱 Studying JLPT N1 + Advanced React/Next.js `**
 ---
