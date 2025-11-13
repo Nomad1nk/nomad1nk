@@ -5,6 +5,8 @@
 <a href="https://facebook.com/baysgln.battulga.7" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50" height="50" />
 </a>
+---
+  
 ## 👋 About Me
 - 🎓 IT Design student in Japan  
 - 💻 Passionate about Full Stack Development  
@@ -14,10 +16,10 @@
 ###🗣️ Languages I Speak
 
 <p align="left">
-  🇲🇳 Mongolian (Native)  
-  🇬🇧 English (Fluent)  
-  🇩🇪 German (Intermediate)  
-  🇯🇵 Japanese (Fluent)
+  <img src="https://flagcdn.com/w20/mn.png" width="25"/> Mongolian (Native)<br>
+  <img src="https://flagcdn.com/w20/gb.png" width="25"/> English (Fluent)<br>
+  <img src="https://flagcdn.com/w20/de.png" width="25"/> German (Intermediate)<br>
+  <img src="https://flagcdn.com/w20/jp.png" width="25"/> Japanese (Fluent)
 </p>
 
 ---
