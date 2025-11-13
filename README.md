@@ -19,6 +19,7 @@
   <img src="https://flagcdn.com/w20/de.png" width="25"/> German (Intermediate)<br>
   <img src="https://flagcdn.com/w20/jp.png" width="25"/> Japanese (Fluent)
 </p>
+
 ### 🎮 eSport
 
 ![CS2](https://img.shields.io/badge/CS2-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
