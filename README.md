@@ -5,12 +5,21 @@
 <a href="https://facebook.com/baysgln.battulga.7" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50" height="50" />
 </a>
+## 👋 About Me
+- 🎓 IT Design student in Japan  
+- 💻 Passionate about Full Stack Development  
+- 🌏 Studying JLPT N1 + Advanced React/Next.js 
 
 
+### 🗣️ Languages I Speak
 
-## 👨‍💻 About Me
+**`<p align="left">
+  🇲🇳 Mongolian (Native)  
+  🇬🇧 English (Fluent)  
+  🇩🇪 German (Intermediate)  
+  🇯🇵 Japanese (Fluent)
+</p>`**
 
-**`- 🌱 Studying JLPT N1 + Advanced React/Next.js `**
 ---
 
 ### 💻 Frontend
