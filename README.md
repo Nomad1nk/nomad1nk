@@ -2,9 +2,10 @@
 <a href="https://www.instagram.com/baysakun/" target="blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"
 </a>
-<a href="https://www.facebook.com/baysgln.battulga.7/" target="blank">
-  <img src="https://skillicons.dev/icons?i=facebook" alt="facebook"
+<a href="https://facebook.com/baysgln.battulga.7" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
 </a>
+
 
 
 ## 👨‍💻 About Me
