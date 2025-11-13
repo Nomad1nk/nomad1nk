@@ -39,7 +39,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nomad1nk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nomad1nk" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomad1nk&show_icons=true&locale=en&layout=compact" alt="nomad1nk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomad1nk&" alt="nomad1nk" /></p>
 
