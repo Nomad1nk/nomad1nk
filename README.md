@@ -9,10 +9,9 @@
 ## 👋 About Me
 - 🎓 IT Design student in Japan  
 - 💻 Passionate about Full Stack Development  
-- 🌏 Studying JLPT N1 + Advanced React/Next.js 
 
 
-###🗣️ Languages I Speak
+### 🗣️ Languages I Speak
 
 <p align="left">
   <img src="https://flagcdn.com/w20/mn.png" width="25"/> Mongolian (Native)<br>
@@ -20,8 +19,11 @@
   <img src="https://flagcdn.com/w20/de.png" width="25"/> German (Intermediate)<br>
   <img src="https://flagcdn.com/w20/jp.png" width="25"/> Japanese (Fluent)
 </p>
+### 🎮 eSport
 
----
+![CS2](https://img.shields.io/badge/CS2-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
+![Dota2](https://img.shields.io/badge/Dota%202-CC0000?style=for-the-badge&logo=dota&logoColor=white)
+
 
 ### 💻 Frontend
 
