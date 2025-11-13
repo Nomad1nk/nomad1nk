@@ -57,7 +57,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JLPT-N2-brightgreen?style=for-the-badge&logo=google-translate&logoColor=white" />
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-Certified-yellowgreen?style=for-the-badge" />
 </p>
 
