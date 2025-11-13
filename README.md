@@ -1,10 +1,7 @@
-
+# Nomad1nk
 ## 👨‍💻 About Me
 
-- 🌱 Studying JLPT N1 + Advanced React/Next.js  
-- 🌐 Building learning platforms for Mongolian students in Japan  
-**`- 🎓 Full-Stack Developer `**
-
+**`- 🌱 Studying JLPT N1 + Advanced React/Next.js `**
 ---
 
 ### 💻 Frontend
