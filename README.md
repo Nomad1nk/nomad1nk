@@ -53,46 +53,6 @@ If you find my work helpful, consider buying me a coffee!
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baljir0901&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baljir0901&layout=compact&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baljir0901&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baljir0901&theme=onedark&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/baljir0901/baljir0901/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="https://youtube.com/@baljiRRR"><img src="https://img.shields.io/badge/YouTube-Kittokatsu-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://baljir.org"><img src="https://img.shields.io/badge/Website-baljir.org-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:baljir0901@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
 ## 🤹‍♂️ Fun Fact
 
-> I smoke 🚬, drink coffee ☕, and used to run away from bugs 🐛  
-> Now I’m **running sport master** — physically and in code 🏃‍♂️💻  
 > No more `console.log("panic")` — only `git push origin success` 🚀
