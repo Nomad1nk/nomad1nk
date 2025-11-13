@@ -3,7 +3,7 @@
 
 - 🌱 Studying JLPT N1 + Advanced React/Next.js  
 - 🌐 Building learning platforms for Mongolian students in Japan  
-- 🎓 Full-Stack Developer  
+**`- 🎓 Full-Stack Developer `**
 
 ---
 
