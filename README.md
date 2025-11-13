@@ -1,9 +1,9 @@
 # Nomad1nk
-<a href="https://www.instagram.com/baysakun/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"
+<a href="https://www.instagram.com/baysakun/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram"  width="50" height="50"
 </a>
 <a href="https://facebook.com/baysgln.battulga.7" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50" height="50" />
 </a>
 
 
