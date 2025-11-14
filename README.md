@@ -76,7 +76,7 @@
 </p>
 
 ## 🤹‍♂️ Fun Fact
-><?php
+<?php
 $keyboard->fear($codeIType);
 php
 Copy code
@@ -84,8 +84,15 @@ Copy code
 if ($keyboard->isShaking()) {
     echo "Must be my code again.";
 }
-php
-Copy code
 <?php
-// Fun Fact:
+
 $keyboard->status = "terrified";
+Keyboard keyboard = new Keyboard();
+keyboard.fear(codeIType);
+if (keyboard.isShaking()) {
+    System.out.println("The code has awakened something...");
+}
+
+public class FunFact {
+    String fact = "My keyboard fears the code I type.";
+}
