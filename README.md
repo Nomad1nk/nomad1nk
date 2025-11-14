@@ -76,4 +76,16 @@
 </p>
 
 ## 🤹‍♂️ Fun Fact
-> No more `console.log("panic")` — only `git push origin success` 🚀
+><?php
+$keyboard->fear($codeIType);
+php
+Copy code
+<?php
+if ($keyboard->isShaking()) {
+    echo "Must be my code again.";
+}
+php
+Copy code
+<?php
+// Fun Fact:
+$keyboard->status = "terrified";
