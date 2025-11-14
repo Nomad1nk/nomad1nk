@@ -76,12 +76,14 @@
 </p>
 
 ## 🤹‍♂️ Fun Fact
-<?php
-$keyboard->fear($codeIType);
 
-if ($keyboard->isShaking()) {
-    echo "Must be my code again.";
+Keyboard keyboard = new Keyboard();
+keyboard.fear(codeIType);
+
+if (keyboard.isShaking()) {
+    System.out.println("The code has awakened something...");
 }
 
-$keyboard->status = "terrified";
-
+public class FunFact {
+    String fact = "My keyboard fears the code I type.";
+}
