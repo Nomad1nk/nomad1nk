@@ -77,6 +77,7 @@
 
 ## 🤹‍♂️ Fun Fact
 
+```java
 Keyboard keyboard = new Keyboard();
 keyboard.fear(codeIType);
 
@@ -87,3 +88,4 @@ if (keyboard.isShaking()) {
 public class FunFact {
     String fact = "My keyboard fears the code I type.";
 }
+```
